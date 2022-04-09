@@ -1,8 +1,8 @@
 ### Hi there 👋 I am Sahab Masrour
 > game programmer
 
-- 🔭 I’m currently working on PC multiplayer Game
-- 🌱 I’m currently learning [Nakama](https://heroiclabs.com/) game server
-- 💬 Ask me about Unity, Game back-end, C# .Net
+- 🔭 I’m a programmer who passionate about video games
+- 🌱 Familiar with C#, UNity and some hands on other programming languages and back-end
+- 💬 ...
 - 📫 How to reach me: [sahab.masroor@gmail.com](mailto:sahab.masroor@gmail.com) & [ssmasrour.ir](https://ssmasrour.ir/)
 
